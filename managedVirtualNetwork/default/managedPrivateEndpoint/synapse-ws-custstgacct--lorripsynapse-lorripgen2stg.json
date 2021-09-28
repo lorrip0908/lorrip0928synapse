@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--lorripsynapse-lorripgen2stg",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/80bf3ca3-3b68-4cc0-a318-154eb26117dd/resourceGroups/TRAININGRG4/providers/Microsoft.Storage/storageAccounts/lorripgen2stg",
+		"groupId": "dfs",
+		"fqdns": [
+			"lorripgen2stg.dfs.core.windows.net"
+		]
+	}
+}

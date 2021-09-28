@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--lorripsynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/80bf3ca3-3b68-4cc0-a318-154eb26117dd/resourceGroups/TRAININGRG4/providers/Microsoft.Synapse/workspaces/lorripsynapse",
+		"groupId": "sql",
+		"fqdns": [
+			"lorripsynapse.c2788fc1-d2af-4a5d-8bd4-f1b96609cd7c.sql.azuresynapse.net"
+		]
+	}
+}
